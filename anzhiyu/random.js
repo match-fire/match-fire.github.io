@@ -1,0 +1,1 @@
+var posts=["2023/07/01/《在八角笼中》电影影评/","2023/03/27/hexo的使用指南（一）/","2023/03/26/世界你好/","2023/08/02/微信ChatGPT机器人搭建教程/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
