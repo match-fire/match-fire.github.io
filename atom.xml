@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Match_Fire的博客</title>
+  <title>Match_Fire</title>
   <icon>http://blog.matchfire.top/icon.png</icon>
   <subtitle>赶紧把你的Vape V4注入到米米世界吧主播 XD</subtitle>
   <link href="http://blog.matchfire.top/atom.xml" rel="self"/>
   
   <link href="http://blog.matchfire.top/"/>
-  <updated>2023-08-15T14:59:10.088Z</updated>
+  <updated>2023-08-16T01:21:56.147Z</updated>
   <id>http://blog.matchfire.top/</id>
   
   <author>
@@ -21,12 +21,20 @@
     <link href="http://blog.matchfire.top/2023/08/02/%E5%BE%AE%E4%BF%A1ChatGPT%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
     <id>http://blog.matchfire.top/2023/08/02/%E5%BE%AE%E4%BF%A1ChatGPT%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
     <published>2023-08-02T11:23:27.000Z</published>
-    <updated>2023-08-15T14:59:10.088Z</updated>
+    <updated>2023-08-16T01:21:56.147Z</updated>
     
     
-    <summary type="html">&lt;p&gt;点击查看更多内容&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
+    
+    <category term="教程" scheme="http://blog.matchfire.top/categories/%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="ChatGPT" scheme="http://blog.matchfire.top/tags/ChatGPT/"/>
@@ -38,7 +46,7 @@
     <link href="http://blog.matchfire.top/2023/07/01/%E3%80%8A%E5%9C%A8%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%94%B5%E5%BD%B1%E5%BD%B1%E8%AF%84/"/>
     <id>http://blog.matchfire.top/2023/07/01/%E3%80%8A%E5%9C%A8%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD%E3%80%8B%E7%94%B5%E5%BD%B1%E5%BD%B1%E8%AF%84/</id>
     <published>2023-07-01T11:09:25.000Z</published>
-    <updated>2023-08-15T14:58:20.292Z</updated>
+    <updated>2023-08-16T01:20:31.865Z</updated>
     
     
       
@@ -51,6 +59,8 @@
     
     
     
+    <category term="影评" scheme="http://blog.matchfire.top/categories/%E5%BD%B1%E8%AF%84/"/>
+    
     
   </entry>
   
@@ -59,12 +69,14 @@
     <link href="http://blog.matchfire.top/2023/03/27/hexo%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://blog.matchfire.top/2023/03/27/hexo%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2023-03-27T12:40:28.000Z</published>
-    <updated>2023-08-15T14:59:03.957Z</updated>
+    <updated>2023-08-16T01:21:29.634Z</updated>
     
     
     <summary type="html">&lt;p&gt;本篇文章主要是写着玩，如有疏漏，请指出&lt;/p&gt;</summary>
     
     
+    
+    <category term="教程" scheme="http://blog.matchfire.top/categories/%E6%95%99%E7%A8%8B/"/>
     
     
     <category term="hexo" scheme="http://blog.matchfire.top/tags/hexo/"/>
